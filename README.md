@@ -1,3 +1,4 @@
 # Semantic-based-Java-Web-Crawler
-A Semantics-based Java Web crawler and clustering program intending to extract user-specified, topic-related information from a user-specified website (news, academics, journels, etc.) and classifying them accordingly.
-Using Stanford CoreNLP toolkit for NLP and Semantic analysis and extraction, and appropriate Machine learning algorithms.
+Semantics-based Focused-Crawlng, Graphing and Scraping algorithms, for effective data mining from any website, intending to extract user-specified, topic-related information.
+Developed a Java-based crawler, scraper and graphing program.
+Crawls and Scrapes the useful data and links from any web page, and builds a web graph of the embedded links.
